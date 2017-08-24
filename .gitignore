@@ -1,4 +1,5 @@
 # Ignore paths that contain user-generated content.
+.htaccess
 sites/*/files
 sites/*/private
 files/*
